@@ -1,0 +1,42 @@
+*{
+    margin: 60px;
+}
+.Padre{
+    background-color: orange;
+    padding: 20px;
+}
+.Circulo1{
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 100%;
+}
+.Circulo2{
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 100%;
+}
+.Circulo3{
+    background-color: red;
+    padding: 20px;
+    border-radius: 100%;
+}
+.Circulo4{
+    background-color: black;
+    padding: 20px;
+    border-radius: 100%;
+}
+.Circulo5{
+    background-color: brown;
+    padding: 20px;
+    border-radius: 100%;
+}
+.Circulo6{
+    background-color: green;
+    padding: 20px;
+    border-radius: 100%;
+}
+.Circulo7{
+    background-color: blue;
+    padding: 20px;
+    border-radius: 100%;
+}
